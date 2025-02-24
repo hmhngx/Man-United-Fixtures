@@ -19,20 +19,25 @@ A React + Vite web application that provides fixtures, results, and match detail
 git clone https://github.com/yourusername/Manchester-United-Fixture.git
 cd Manchester-United-Fixture
 
-## Install dependencies:
+```
+
+### Install dependencies:
 ```sh
 npm install
 
+```
 ## Start the development server:
 
 ```sh
 npm run dev
+```
 Open localhost:5173 in your browser.
 
 ## 🏗️ Build for Production
 ```sh
 npm run build
 
+```
 ## 🤝 Contributing
 Pull requests are welcome! Please follow these steps:
 
