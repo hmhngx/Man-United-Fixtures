@@ -5,7 +5,6 @@ A React + Vite web application that provides fixtures, results, and match detail
 ## 🚀 Features  
 - 🏟️ View upcoming and past fixtures  
 - 📊 Match results and statistics  
-- 🔔 Notifications for match updates (if applicable)  
 - 🎨 Responsive and user-friendly UI  
 
 ## 🛠️ Tech Stack  
@@ -20,7 +19,6 @@ git clone https://github.com/yourusername/Manchester-United-Fixture.git
 cd Manchester-United-Fixture
 
 ```
-
 ### Install dependencies:
 ```sh
 npm install
@@ -41,7 +39,7 @@ npm run build
 ## 🤝 Contributing
 Pull requests are welcome! Please follow these steps:
 
-Fork the repository
-Create a new branch (feature-branch)
-Commit your changes
-Push to your fork and submit a Pull Request
+- Fork the repository
+- Create a new branch (feature-branch)
+- Commit your changes
+- Push to your fork and submit a Pull Request
