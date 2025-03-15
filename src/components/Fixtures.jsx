@@ -47,6 +47,7 @@ const Fixtures = () => {
     Ipswich: "/logos/Ipswich-Town-FC-logo.png",
     "Real Sociedad": "/logos/sociedad.png",
     Bournemouth: "/logos/AFC-Bournemouth-logo.png",
+    "Olympique Lyonnais": "/logos/lyon.png"
   };
 
   useEffect(() => {
@@ -445,10 +446,10 @@ const Fixtures = () => {
             id: 43,
             date: "Thu, Mar 13, 2025",
             opponent: "(H) Real Sociedad",
-            result: "TBD",
+            result: "W 4 - 1",
             competition: "Europa League",
             location: "Old Trafford",
-            details: "TBD",
+            details: "Fernandes 16' (pen), 50' (pen), 87', Dalot 90 + 1', Sociedad 1",
           },
           {
             id: 44,
@@ -470,7 +471,7 @@ const Fixtures = () => {
           },
           {
             id: 46,
-            date: "Sun, Apr 5, 2025",
+            date: "Sun, Apr 6, 2025",
             opponent: "(H) Manchester City",
             result: "TBD",
             competition: "Premier League",
@@ -479,6 +480,15 @@ const Fixtures = () => {
           },
           {
             id: 47,
+            date: "Thu, Apr 10, 2025",
+            opponent: "(A) Olympique Lyonnais",
+            result: "TBD",
+            competition: "Europa League",
+            location: "Groupama Stadium",
+            details: "TBD",
+          },
+          {
+            id: 48,
             date: "Sun, Apr 13, 2025",
             opponent: "(A) Newcastle United",
             result: "TBD",
@@ -487,8 +497,17 @@ const Fixtures = () => {
             details: "TBD",
           },
           {
-            id: 48,
-            date: "Sat, Apr 19, 2025",
+            id: 49,
+            date: "Thu, Apr 17, 2025",
+            opponent: "(H) Olympique Lyonnais",
+            result: "TBD",
+            competition: "Europa League",
+            location: "Old Trafford",
+            details: "TBD",
+          },
+          {
+            id: 50,
+            date: "Sun, Apr 20, 2025",
             opponent: "(H) Wolves",
             result: "TBD",
             competition: "Premier League",
@@ -496,7 +515,7 @@ const Fixtures = () => {
             details: "TBD",
           },
           {
-            id: 49,
+            id: 51,
             date: "Sun, Apr 27, 2025",
             opponent: "(A) Bournemouth",
             result: "TBD",
@@ -505,7 +524,7 @@ const Fixtures = () => {
             details: "TBD",
           },
           {
-            id: 50,
+            id: 52,
             date: "Sat, May 3, 2025",
             opponent: "(A) Brentford",
             result: "TBD",
@@ -514,7 +533,7 @@ const Fixtures = () => {
             details: "TBD",
           },
           {
-            id: 51,
+            id: 53,
             date: "Sat, May 10, 2025",
             opponent: "(H) West Ham",
             result: "TBD",
@@ -523,7 +542,7 @@ const Fixtures = () => {
             details: "TBD",
           },
           {
-            id: 52,
+            id: 54,
             date: "Sun, May 18, 2025",
             opponent: "(A) Chelsea",
             result: "TBD",
@@ -532,7 +551,7 @@ const Fixtures = () => {
             details: "TBD",
           },
           {
-            id: 53,
+            id: 55,
             date: "Sun, May 25, 2025",
             opponent: "(A) Aston Villa",
             result: "TBD",
