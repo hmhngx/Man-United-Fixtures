@@ -455,10 +455,10 @@ const Fixtures = () => {
             id: 44,
             date: "Sun, Mar 16, 2025",
             opponent: "(A) Leicester",
-            result: "TBD",
+            result: "W 0 - 3",
             competition: "Premier League",
             location: "King Power Stadium",
-            details: "TBD",
+            details: "Leicester 0, Hojlund 28', Garnacho 67', Fernandes 90'",
           },
           {
             id: 45,
