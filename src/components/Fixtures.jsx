@@ -464,10 +464,10 @@ const Fixtures = () => {
             id: 45,
             date: "Tue, Apr 1, 2025",
             opponent: "(A) Nottingham Forest",
-            result: "TBD",
+            result: "L 1 - 0",
             competition: "Premier League",
             location: "City Ground",
-            details: "TBD",
+            details: "Forest 1, United 0",
           },
           {
             id: 46,
