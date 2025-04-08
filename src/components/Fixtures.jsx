@@ -473,10 +473,10 @@ const Fixtures = () => {
             id: 46,
             date: "Sun, Apr 6, 2025",
             opponent: "(H) Manchester City",
-            result: "TBD",
+            result: "D 0 - 0",
             competition: "Premier League",
             location: "Old Trafford",
-            details: "TBD",
+            details: "United 0, City 0",
           },
           {
             id: 47,
