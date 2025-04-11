@@ -5,24 +5,24 @@
   .match-highlights h3 {
     font-size: 1.2rem;
     margin-bottom: 10px;
-    color: #d71920; /* Red to match theme */
+    color: #d71920; 
     font-weight: 600;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
   }
   
   .match-highlights.modal .video-container {
     position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio for modal */
+    padding-bottom: 56.25%; 
     height: 0;
     overflow: hidden;
-    border: 1px solid #d71920; /* Red border */
+    border: 1px solid #d71920; 
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
   }
   
   .match-highlights.table .video-container {
     position: relative;
-    padding-bottom: 56.25%; /* Maintain 16:9 aspect ratio for table */
+    padding-bottom: 56.25%; 
     height: 0;
     overflow: hidden;
     border: 1px solid #d71920;

@@ -14,6 +14,6 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background: transparent; /* Let App.css handle the background */
+  background: transparent; 
   font-family: 'Roboto', sans-serif;
 }
