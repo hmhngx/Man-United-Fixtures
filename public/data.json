@@ -7,7 +7,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Zirkzee 45', Fulham 0",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/dQw4w9WgXcQ"
     },
     {
       "id": 2,
@@ -17,7 +18,8 @@
       "competition": "Premier League",
       "location": "American Express Stadium",
       "details": "Goals: Brighton 2, Amad 60'",
-      "logo": "/logos/Brighton-Hove-Albion-logo.png"
+      "logo": "/logos/Brighton-Hove-Albion-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/abcd1234"
     },
     {
       "id": 3,
@@ -27,7 +29,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Liverpool 3, United 0",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/efgh5678"
     },
     {
       "id": 4,
@@ -37,7 +40,8 @@
       "competition": "Premier League",
       "location": "St. Mary's Stadium",
       "details": "Goals: De Ligt 35', Rashford 41', Garnacho 90 + 6'",
-      "logo": "/logos/Southampton-FC-logo.png"
+      "logo": "/logos/Southampton-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/ijkl9012"
     },
     {
       "id": 5,
@@ -47,7 +51,8 @@
       "competition": "EFL League Cup",
       "location": "Old Trafford",
       "details": "Goals: Rashford 16', 57', Antony 35' (pen), Garnacho 45+2', 49', Eriksen 81', 85'",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/mnop3456"
     },
     {
       "id": 6,
@@ -57,7 +62,8 @@
       "competition": "Premier League",
       "location": "Selhurst Park",
       "details": "No goals scored",
-      "logo": "/logos/Crystal-Palace-FC-logo.png"
+      "logo": "/logos/Crystal-Palace-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/qrst7890"
     },
     {
       "id": 7,
@@ -67,7 +73,8 @@
       "competition": "Europa League",
       "location": "Old Trafford",
       "details": "Goals: Eriksen 35', Twente 1",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/uvwx1234"
     },
     {
       "id": 8,
@@ -77,7 +84,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Tottenham 3, United 0",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/yzab5678"
     },
     {
       "id": 9,
@@ -87,7 +95,8 @@
       "competition": "Europa League",
       "location": "Estádio do Dragão",
       "details": "Goals: Rashford 7', Hojlund 20', Maguire 90 + 1', Porto 3",
-      "logo": "/logos/porto-logo-png.png"
+      "logo": "/logos/porto-logo-png.png",
+      "highlightVideo": "https://www.youtube.com/embed/cdef9012"
     },
     {
       "id": 10,
@@ -97,7 +106,8 @@
       "competition": "Premier League",
       "location": "Villa Park",
       "details": "No goals scored",
-      "logo": "/logos/Aston-Villa-FC-logo.png"
+      "logo": "/logos/Aston-Villa-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/ghij3456"
     },
     {
       "id": 11,
@@ -107,7 +117,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Garnacho 47', Hojlund 62', Brentford: 1",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/klmn7890"
     },
     {
       "id": 12,
@@ -117,7 +128,8 @@
       "competition": "Europa League",
       "location": "Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
       "details": "Goals: Eriksen 15', Fenerbahce 1",
-      "logo": "/logos/fenerbahce-png.png"
+      "logo": "/logos/fenerbahce-png.png",
+      "highlightVideo": "https://www.youtube.com/embed/pqrs1234"
     },
     {
       "id": 13,
@@ -127,7 +139,8 @@
       "competition": "Premier League",
       "location": "London Stadium",
       "details": "Goals: West Ham 2, Casemiro 81'",
-      "logo": "/logos/West-Ham-United-FC-logo.png"
+      "logo": "/logos/West-Ham-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/stuv5678"
     },
     {
       "id": 14,
@@ -137,7 +150,8 @@
       "competition": "EFL League Cup",
       "location": "Old Trafford",
       "details": "Goals: Casemiro 15', 39', Garnacho 28', Fernandes 36', 59', Leicester 2",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/wxyz9012"
     },
     {
       "id": 15,
@@ -147,7 +161,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Fernandes 70' (pen), Chelsea 1",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/abcd3456"
     },
     {
       "id": 16,
@@ -157,7 +172,8 @@
       "competition": "Europa League",
       "location": "Old Trafford",
       "details": "Goals: Amad 50', 77'",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/efgh7890"
     },
     {
       "id": 17,
@@ -167,7 +183,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Fernandes 17', Kristiansen 38' (og), Garnacho 82'",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/ijkl1234"
     },
     {
       "id": 18,
@@ -177,7 +194,8 @@
       "competition": "Premier League",
       "location": "Portman Road",
       "details": "Goals: Ipswich 1, Rashford 2'",
-      "logo": "/logos/Ipswich-Town-FC-logo.png"
+      "logo": "/logos/Ipswich-Town-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/mnop5678"
     },
     {
       "id": 19,
@@ -187,7 +205,8 @@
       "competition": "Europa League",
       "location": "Old Trafford",
       "details": "Goals: Garnacho 1', Hojlund 45', 50', Bodo/Glimt 2",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/qrst9012"
     },
     {
       "id": 20,
@@ -197,7 +216,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Rashford 34', 46', Zirkzee 41', 64', Everton 0",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/uvwx3456"
     },
     {
       "id": 21,
@@ -207,7 +227,8 @@
       "competition": "Premier League",
       "location": "Emirates",
       "details": "Goals: Arsenal 2, United 0",
-      "logo": "/logos/Arsenal-FC-logo.png"
+      "logo": "/logos/Arsenal-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/yzab7890"
     },
     {
       "id": 22,
@@ -217,7 +238,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Hojlund 18', Fernandes 61', Forrest 3",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/cdef1234"
     },
     {
       "id": 23,
@@ -227,7 +249,8 @@
       "competition": "Europa Leauge",
       "location": "Doosan Arena",
       "details": "Goals: Plzen 1, Højlund 62', 88'",
-      "logo": "/logos/plzen.png"
+      "logo": "/logos/plzen.png",
+      "highlightVideo": "https://www.youtube.com/embed/ghij5678"
     },
     {
       "id": 24,
@@ -237,7 +260,8 @@
       "competition": "Premier League",
       "location": "Etihad Stadium",
       "details": "Goals: City 1, Fernandes (pen) 88', Amad 90'",
-      "logo": "/logos/Manchester-City-FC-logo.png"
+      "logo": "/logos/Manchester-City-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/klmn9012"
     },
     {
       "id": 25,
@@ -247,7 +271,8 @@
       "competition": "EFL League Cup",
       "location": "Tottenham Hotspur Stadium",
       "details": "Goals: Tottenham 4, Zirkzee 63', Amad Diallo 70', Evans 90+4'",
-      "logo": "/logos/Tottenham-Hotspur-logo.png"
+      "logo": "/logos/Tottenham-Hotspur-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/pqrs3456"
     },
     {
       "id": 26,
@@ -257,7 +282,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Bournemouth 3, United 0",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/stuv7890"
     },
     {
       "id": 27,
@@ -267,7 +293,8 @@
       "competition": "Premier League",
       "location": "Molineux Stadium",
       "details": "Goals: Wolves 2, United 0",
-      "logo": "/logos/Wolverhampton-Wanderers-logo.png"
+      "logo": "/logos/Wolverhampton-Wanderers-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/wxyz1234"
     },
     {
       "id": 28,
@@ -277,7 +304,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Necastle 2, United 0",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/abcd5678"
     },
     {
       "id": 29,
@@ -287,7 +315,8 @@
       "competition": "Premier League",
       "location": "Anfield",
       "details": "Goals: Liverpool 2, Lisandro 52', Amad 80'",
-      "logo": "/logos/Liverpool-FC-logo.png"
+      "logo": "/logos/Liverpool-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/efgh9012"
     },
     {
       "id": 30,
@@ -297,7 +326,8 @@
       "competition": "FA Cup",
       "location": "Emirates Stadium",
       "details": "Goals: Arsenal 1, Fernandes 52', United wins on penalties",
-      "logo": "/logos/Arsenal-FC-logo.png"
+      "logo": "/logos/Arsenal-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/ijkl3456"
     },
     {
       "id": 31,
@@ -307,7 +337,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Amad 82', 90', 90+4', Southampton 1",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/mnop7890"
     },
     {
       "id": 32,
@@ -317,7 +348,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Fernandes (pen) 23', Brighton 3",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/qrst1234"
     },
     {
       "id": 33,
@@ -327,7 +359,8 @@
       "competition": "Europa Leauge",
       "location": "Old Trafford",
       "details": "Goals: Butland (og) 52', Fernandes 90+2', Rangers 1",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/uvwx5678"
     },
     {
       "id": 34,
@@ -337,7 +370,8 @@
       "competition": "Premier League",
       "location": "Craven Cottage",
       "details": "Goals: Fulham 0, Lisandro 78'",
-      "logo": "/logos/Fulham-FC-logo.png"
+      "logo": "/logos/Fulham-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/yzab9012"
     },
     {
       "id": 35,
@@ -347,7 +381,8 @@
       "competition": "Europa Leauge",
       "location": "National Arena",
       "details": "Goals: FCSB 0, Dalot 60', Mainoo 68'",
-      "logo": "/logos/fcsb.png"
+      "logo": "/logos/fcsb.png",
+      "highlightVideo": "https://www.youtube.com/embed/cdef3456"
     },
     {
       "id": 36,
@@ -357,7 +392,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Goals: Palace 2, United 0",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/ghij7890"
     },
     {
       "id": 37,
@@ -367,7 +403,8 @@
       "competition": "FA Cup",
       "location": "Old Trafford",
       "details": "Goals: Zirkzee 68', Maguire 90 + 3', Leicester 1",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/klmn1234"
     },
     {
       "id": 38,
@@ -377,7 +414,8 @@
       "competition": "Premier League",
       "location": "Tottenham Hotspur Stadium",
       "details": "Goals: Tottenham 1, United 0",
-      "logo": "/logos/Tottenham-Hotspur-logo.png"
+      "logo": "/logos/Tottenham-Hotspur-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/pqrs5678"
     },
     {
       "id": 39,
@@ -387,7 +425,8 @@
       "competition": "Premier League",
       "location": "Goodison Park",
       "details": "Goals: Everton 2, Fernandes 72', Ugarte 80'",
-      "logo": "/logos/Everton-FC-logo.png"
+      "logo": "/logos/Everton-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/stuv9012"
     },
     {
       "id": 40,
@@ -397,7 +436,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Sam Morsy (og) 22', De Ligt 26', Maguire 47', Ipswich 2",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/wxyz3456"
     },
     {
       "id": 41,
@@ -407,7 +447,8 @@
       "competition": "FA Cup",
       "location": "Old Trafford",
       "details": "Fernandes 71', Fulham 1, United loses on penalties",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/abcd7890"
     },
     {
       "id": 42,
@@ -417,7 +458,8 @@
       "competition": "Europa League",
       "location": "Reale Arena",
       "details": "Sociedad 1, Zirkzee 57'",
-      "logo": "/logos/sociedad.png"
+      "logo": "/logos/sociedad.png",
+      "highlightVideo": "https://www.youtube.com/embed/efgh1234"
     },
     {
       "id": 43,
@@ -427,7 +469,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "Fernandes 45+2', Arsenal 1",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/ijkl5678"
     },
     {
       "id": 44,
@@ -437,7 +480,8 @@
       "competition": "Europa League",
       "location": "Old Trafford",
       "details": "Fernandes 16' (pen), 50' (pen), 87', Dalot 90 + 1', Sociedad 1",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/mnop9012"
     },
     {
       "id": 45,
@@ -447,7 +491,8 @@
       "competition": "Premier League",
       "location": "King Power Stadium",
       "details": "Leicester 0, Hojlund 28', Garnacho 67', Fernandes 90'",
-      "logo": "/logos/Leicester-City-FC-logo.png"
+      "logo": "/logos/Leicester-City-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/qrst3456"
     },
     {
       "id": 46,
@@ -457,7 +502,8 @@
       "competition": "Premier League",
       "location": "City Ground",
       "details": "Forest 1, United 0",
-      "logo": "/logos/Nottingham-Forest-FC-logo.png"
+      "logo": "/logos/Nottingham-Forest-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/uvwx7890"
     },
     {
       "id": 47,
@@ -467,7 +513,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "United 0, City 0",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": "https://www.youtube.com/embed/yzab1234"
     },
     {
       "id": 48,
@@ -477,7 +524,8 @@
       "competition": "Europa League",
       "location": "Groupama Stadium",
       "details": "Lyon 2, Yoro 45+5', Zirkzee 88'",
-      "logo": "/logos/lyon.png"
+      "logo": "/logos/lyon.png",
+      "highlightVideo": "https://www.youtube.com/embed/cdef5678"
     },
     {
       "id": 49,
@@ -487,7 +535,8 @@
       "competition": "Premier League",
       "location": "St. James' Park",
       "details": "TBD",
-      "logo": "/logos/newcastle.png"
+      "logo": "/logos/newcastle.png",
+      "highlightVideo": null
     },
     {
       "id": 50,
@@ -497,7 +546,8 @@
       "competition": "Europa League",
       "location": "Old Trafford",
       "details": "TBD",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": null
     },
     {
       "id": 51,
@@ -507,7 +557,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "TBD",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": null
     },
     {
       "id": 52,
@@ -517,7 +568,8 @@
       "competition": "Premier League",
       "location": "Vitality Stadium",
       "details": "TBD",
-      "logo": "/logos/AFC-Bournemouth-logo.png"
+      "logo": "/logos/AFC-Bournemouth-logo.png",
+      "highlightVideo": null
     },
     {
       "id": 53,
@@ -527,7 +579,8 @@
       "competition": "Premier League",
       "location": "Gtech Community Stadium",
       "details": "TBD",
-      "logo": "/logos/Brentford-FC-logo.png"
+      "logo": "/logos/Brentford-FC-logo.png",
+      "highlightVideo": null
     },
     {
       "id": 54,
@@ -537,7 +590,8 @@
       "competition": "Premier League",
       "location": "Old Trafford",
       "details": "TBD",
-      "logo": "/logos/Manchester-United-FC-logo.png"
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": null
     },
     {
       "id": 55,
@@ -547,7 +601,8 @@
       "competition": "Premier League",
       "location": "Stamford Bridge",
       "details": "TBD",
-      "logo": "/logos/Chelsea-FC-logo.png"
+      "logo": "/logos/Chelsea-FC-logo.png",
+      "highlightVideo": null
     },
     {
       "id": 56,
@@ -557,6 +612,7 @@
       "competition": "Premier League",
       "location": "Villa Park",
       "details": "TBD",
-      "logo": "/logos/Aston-Villa-FC-logo.png"
+      "logo": "/logos/Aston-Villa-FC-logo.png",
+      "highlightVideo": null
     }
   ]

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Modal from "react-modal";
+import MatchHighlights from "./MatchHighlights";
 
-// Ensure Modal is configured for accessibility
 Modal.setAppElement("#root");
 
 const Fixtures = () => {
@@ -18,7 +18,6 @@ const Fixtures = () => {
   useEffect(() => {
     const fetchFixtures = async () => {
       try {
-        // Fetch data from /public/data.json
         const response = await fetch("/data.json");
         if (!response.ok) {
           throw new Error(`Failed to fetch data: ${response.statusText}`);
@@ -33,15 +32,12 @@ const Fixtures = () => {
     fetchFixtures();
   }, []);
 
-  // Filter and sort fixtures
   useEffect(() => {
     let filtered = [...fixtures];
 
-    // Apply search (improved logic for opponent, date, and competition)
     if (searchTerm) {
       const searchLower = searchTerm.toLowerCase().trim();
       filtered = filtered.filter((fixture) => {
-        // Search opponent (handle "(H)" or "(A)" and team name)
         const opponentName = fixture.opponent.replace(/^\(H\)|\(A\)/, "").trim().toLowerCase();
         const opponentWithPrefix = fixture.opponent.toLowerCase();
         const dateMatch = fixture.date.toLowerCase().includes(searchLower);
@@ -54,15 +50,12 @@ const Fixtures = () => {
           competitionMatch
         );
       });
-      console.log("Filtered fixtures by search:", filtered);
     }
 
-    // Apply competition filter
     if (competitionFilter !== "All") {
       filtered = filtered.filter((fixture) => fixture.competition === competitionFilter);
     }
 
-    // Sort
     filtered.sort((a, b) => {
       if (sortBy === "date") return new Date(b.date) - new Date(a.date);
       if (sortBy === "opponent") return b.opponent.localeCompare(a.opponent);
@@ -73,13 +66,11 @@ const Fixtures = () => {
     setFilteredFixtures(filtered);
   }, [searchTerm, competitionFilter, sortBy, fixtures]);
 
-  // Pagination
   const indexOfLastFixture = currentPage * fixturesPerPage;
   const indexOfFirstFixture = indexOfLastFixture - fixturesPerPage;
   const currentFixtures = filteredFixtures.slice(indexOfFirstFixture, indexOfLastFixture);
   const totalPages = Math.ceil(filteredFixtures.length / fixturesPerPage);
 
-  // Open modal with fixture details
   const openModal = (fixture) => {
     setSelectedFixture(fixture);
     setModalIsOpen(true);
@@ -90,7 +81,6 @@ const Fixtures = () => {
     setSelectedFixture(null);
   };
 
-  // Result styling
   const getResultStyle = (result) => {
     if (result.startsWith("W")) return { backgroundColor: "#e6ffe6", color: "#006400" };
     if (result.startsWith("L")) return { backgroundColor: "#ffe6e6", color: "#8B0000" };
@@ -100,7 +90,6 @@ const Fixtures = () => {
 
   return (
     <div className="Fixtures">
-      {/* Filters and Search */}
       <div className="filters">
         <input
           type="text"
@@ -131,15 +120,15 @@ const Fixtures = () => {
         </select>
       </div>
 
-      {/* Fixtures Table */}
       <table>
         <thead>
           <tr>
-            <th>Date</th>
-            <th>Opponent</th>
-            <th>Result</th>
-            <th>Competition</th>
-            <th>Location</th>
+            <th>DATE</th>
+            <th>OPPONENT</th>
+            <th>RESULT</th>
+            <th>COMPETITION</th>
+            <th>LOCATION</th>
+            <th>HIGHLIGHTS</th>
           </tr>
         </thead>
         <tbody>
@@ -167,13 +156,15 @@ const Fixtures = () => {
                 <td style={getResultStyle(fixture.result)}>{fixture.result}</td>
                 <td>{fixture.competition}</td>
                 <td>{fixture.location}</td>
+                <td className="highlight-column">
+                  <MatchHighlights highlightVideo={fixture.highlightVideo} context="table" />
+                </td>
               </tr>
             );
           })}
         </tbody>
       </table>
 
-      {/* Pagination */}
       <div className="pagination">
         <button
           onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))}
@@ -192,7 +183,6 @@ const Fixtures = () => {
         </button>
       </div>
 
-      {/* Modal for Match Details */}
       <Modal
         isOpen={modalIsOpen}
         onRequestClose={closeModal}
@@ -209,9 +199,11 @@ const Fixtures = () => {
             transform: "translate(-50%, -50%)",
             padding: "20px",
             borderRadius: "8px",
-            maxWidth: "500px",
+            maxWidth: "600px",
             width: "90%",
             backgroundColor: "#fff",
+            maxHeight: "90vh",
+            overflowY: "auto",
           },
         }}
       >
@@ -232,6 +224,7 @@ const Fixtures = () => {
             <p>
               <strong>Details:</strong> {selectedFixture.details}
             </p>
+            <MatchHighlights highlightVideo={selectedFixture.highlightVideo} context="modal" />
             <button onClick={closeModal} className="modal-close-btn">
               Close
             </button>
