@@ -542,12 +542,12 @@
       "id": 50,
       "date": "Thu, Apr 17, 2025",
       "opponent": "(H) Olympique Lyonnais",
-      "result": "TBD",
+      "result": "W 5 - 4",
       "competition": "Europa League",
       "location": "Old Trafford",
-      "details": "TBD",
+      "details": "Ugarte 10', Dalot 45 + 1', Fernandes (pen) 114', Mainoo 120', Maguire 120 + 1', Lyon 4 ",
       "logo": "/logos/Manchester-United-FC-logo.png",
-      "highlightVideo": null
+      "highlightVideo": "https://www.youtube.com/embed/9OPyZMVBO9o"
     },
     {
       "id": 51,
@@ -573,7 +573,18 @@
     },
     {
       "id": 53,
-      "date": "Sat, May 3, 2025",
+      "date": "Thu, May 1, 2025",
+      "opponent": "(A) Athletic Bilbao",
+      "result": "TBD",
+      "competition": "Europa League",
+      "location": "San Mamés",
+      "details": "TBD",
+      "logo": "/logos/bilbao.png",
+      "highlightVideo": null
+    },
+    {
+      "id": 54,
+      "date": "Sun, May 4, 2025",
       "opponent": "(A) Brentford",
       "result": "TBD",
       "competition": "Premier League",
@@ -583,8 +594,19 @@
       "highlightVideo": null
     },
     {
-      "id": 54,
-      "date": "Sat, May 10, 2025",
+      "id": 55,
+      "date": "Thu, May 8, 2025",
+      "opponent": "(H) Athletic Bilbao",
+      "result": "TBD",
+      "competition": "Europa League",
+      "location": "Old Trafford",
+      "details": "TBD",
+      "logo": "/logos/Manchester-United-FC-logo.png",
+      "highlightVideo": null
+    },
+    {
+      "id": 56,
+      "date": "Sun, May 11, 2025",
       "opponent": "(H) West Ham",
       "result": "TBD",
       "competition": "Premier League",
@@ -594,8 +616,8 @@
       "highlightVideo": null
     },
     {
-      "id": 55,
-      "date": "Sun, May 18, 2025",
+      "id": 57,
+      "date": "Fri, May 16, 2025",
       "opponent": "(A) Chelsea",
       "result": "TBD",
       "competition": "Premier League",
@@ -605,14 +627,14 @@
       "highlightVideo": null
     },
     {
-      "id": 56,
+      "id": 58,
       "date": "Sun, May 25, 2025",
-      "opponent": "(A) Aston Villa",
+      "opponent": "(H) Aston Villa",
       "result": "TBD",
       "competition": "Premier League",
-      "location": "Villa Park",
+      "location": "Old Trafford",
       "details": "TBD",
-      "logo": "/logos/Aston-Villa-FC-logo.png",
+      "logo": "/logos/Manchester-United-FC-logo.png",
       "highlightVideo": null
     }
   ]
