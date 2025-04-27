@@ -435,7 +435,7 @@
       "result": "W 3 - 2",
       "competition": "Premier League",
       "location": "Old Trafford",
-      "details": "Sam Morsy (og) 22', De Ligt 26', Maguire 47', Ipswich 2",
+      "details": "Goals: Sam Morsy (og) 22', De Ligt 26', Maguire 47', Ipswich 2",
       "logo": "/logos/Manchester-United-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/fc9B4yY3D34"
     },
@@ -446,7 +446,7 @@
       "result": "L 1 - 1 (pens)",
       "competition": "FA Cup",
       "location": "Old Trafford",
-      "details": "Fernandes 71', Fulham 1, United loses on penalties",
+      "details": "Goals: Fernandes 71', Fulham 1, United loses on penalties",
       "logo": "/logos/Manchester-United-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/gbpE53Nv-yc"
     },
@@ -457,7 +457,7 @@
       "result": "D 1 - 1",
       "competition": "Europa League",
       "location": "Reale Arena",
-      "details": "Sociedad 1, Zirkzee 57'",
+      "details": "Goals: Sociedad 1, Zirkzee 57'",
       "logo": "/logos/sociedad.png",
       "highlightVideo": "https://www.youtube.com/embed/cAQ8Ym-bd40"
     },
@@ -468,7 +468,7 @@
       "result": "D 1 - 1",
       "competition": "Premier League",
       "location": "Old Trafford",
-      "details": "Fernandes 45+2', Arsenal 1",
+      "details": "Goals: Fernandes 45+2', Arsenal 1",
       "logo": "/logos/Manchester-United-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/loCZvxveDWo"
     },
@@ -479,7 +479,7 @@
       "result": "W 4 - 1",
       "competition": "Europa League",
       "location": "Old Trafford",
-      "details": "Fernandes 16' (pen), 50' (pen), 87', Dalot 90 + 1', Sociedad 1",
+      "details": "Goals: Fernandes 16' (pen), 50' (pen), 87', Dalot 90 + 1', Sociedad 1",
       "logo": "/logos/Manchester-United-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/3QqAiTztYQY"
     },
@@ -490,7 +490,7 @@
       "result": "W 0 - 3",
       "competition": "Premier League",
       "location": "King Power Stadium",
-      "details": "Leicester 0, Hojlund 28', Garnacho 67', Fernandes 90'",
+      "details": "Goals: Leicester 0, Hojlund 28', Garnacho 67', Fernandes 90'",
       "logo": "/logos/Leicester-City-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/9RKw91TzNBY"
     },
@@ -501,7 +501,7 @@
       "result": "L 1 - 0",
       "competition": "Premier League",
       "location": "City Ground",
-      "details": "Forest 1, United 0",
+      "details": "Goals: Forest 1, United 0",
       "logo": "/logos/Nottingham-Forest-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/UZgDrEH5a7k"
     },
@@ -512,7 +512,7 @@
       "result": "D 0 - 0",
       "competition": "Premier League",
       "location": "Old Trafford",
-      "details": "United 0, City 0",
+      "details": "Goals: United 0, City 0",
       "logo": "/logos/Manchester-United-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/_Oyo3OU28PQ"
     },
@@ -523,7 +523,7 @@
       "result": "D 2 - 2",
       "competition": "Europa League",
       "location": "Groupama Stadium",
-      "details": "Lyon 2, Yoro 45+5', Zirkzee 88'",
+      "details": "Goals: Lyon 2, Yoro 45+5', Zirkzee 88'",
       "logo": "/logos/lyon.png",
       "highlightVideo": "https://www.youtube.com/embed/T189iqUiNc8"
     },
@@ -534,7 +534,7 @@
       "result": "L 4 - 1",
       "competition": "Premier League",
       "location": "St. James' Park",
-      "details": "Newcastle 4, Garnacho 37'",
+      "details": "Goals: Newcastle 4, Garnacho 37'",
       "logo": "/logos/newcastle.png",
       "highlightVideo": "https://www.youtube.com/embed/pR9bxht_Fm0"
     },
@@ -545,7 +545,7 @@
       "result": "W 5 - 4",
       "competition": "Europa League",
       "location": "Old Trafford",
-      "details": "Ugarte 10', Dalot 45 + 1', Fernandes (pen) 114', Mainoo 120', Maguire 120 + 1', Lyon 4 ",
+      "details": "Goals: Ugarte 10', Dalot 45 + 1', Fernandes (pen) 114', Mainoo 120', Maguire 120 + 1', Lyon 4 ",
       "logo": "/logos/Manchester-United-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/9OPyZMVBO9o"
     },
@@ -556,7 +556,7 @@
       "result": "L 0 - 1",
       "competition": "Premier League",
       "location": "Old Trafford",
-      "details": "United 0, Wolves 1",
+      "details": "Goals: United 0, Wolves 1",
       "logo": "/logos/Manchester-United-FC-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/i5WDBIAkZ38"
     },
@@ -564,12 +564,12 @@
       "id": 52,
       "date": "Sun, Apr 27, 2025",
       "opponent": "(A) Bournemouth",
-      "result": "TBD",
+      "result": "D 1 - 1",
       "competition": "Premier League",
       "location": "Vitality Stadium",
-      "details": "TBD",
+      "details": "Goals: Bournemouth 1, Hojlund 90 + 6'",
       "logo": "/logos/AFC-Bournemouth-logo.png",
-      "highlightVideo": null
+      "highlightVideo": "https://www.youtube.com/embed/KKnKXuj1YzI"
     },
     {
       "id": 53,
