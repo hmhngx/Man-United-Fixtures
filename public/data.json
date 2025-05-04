@@ -270,7 +270,7 @@
       "result": "L 4 - 3",
       "competition": "EFL League Cup",
       "location": "Tottenham Hotspur Stadium",
-      "details": "Goals: Tottenham 4, Zirkzee 63', Amad Diallo 70', Evans 90+4'",
+      "details": "Goals: Tottenham 4, Zirkzee 63', Amad 70', Evans 90+4'",
       "logo": "/logos/Tottenham-Hotspur-logo.png",
       "highlightVideo": "https://www.youtube.com/embed/UWaXl02PNWY"
     },
@@ -586,12 +586,12 @@
       "id": 54,
       "date": "Sun, May 4, 2025",
       "opponent": "(A) Brentford",
-      "result": "TBD",
+      "result": "L 4 - 3",
       "competition": "Premier League",
       "location": "Gtech Community Stadium",
-      "details": "TBD",
+      "details": "Goals: Brentford 4, Mount 14', Garnacho 82', Amad 90+5'",
       "logo": "/logos/Brentford-FC-logo.png",
-      "highlightVideo": null
+      "highlightVideo": "https://www.youtube.com/embed/vfkZ3IO8S6E"
     },
     {
       "id": 55,
