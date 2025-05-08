@@ -597,12 +597,12 @@
       "id": 55,
       "date": "Thu, May 8, 2025",
       "opponent": "(H) Athletic Bilbao",
-      "result": "TBD",
+      "result": "W 4 - 1",
       "competition": "Europa League",
       "location": "Old Trafford",
-      "details": "TBD",
+      "details": "Goals: Mount 77', 90 + 1', Casemiro 79', Hojlund 85', Bilbao 1",
       "logo": "/logos/Manchester-United-FC-logo.png",
-      "highlightVideo": null
+      "highlightVideo": "https://www.youtube.com/embed/j_MRp2pVxAo"
     },
     {
       "id": 56,
@@ -628,6 +628,17 @@
     },
     {
       "id": 58,
+      "date": "Wed, May 21, 2025",
+      "opponent": "(A) Tottenham",
+      "result": "TBD",
+      "competition": "Europa League",
+      "location": "San Mamés",
+      "details": "TBD",
+      "logo": "/logos/Tottenham-Hotspur-logo.png",
+      "highlightVideo": null
+    },
+    {
+      "id": 59,
       "date": "Sun, May 25, 2025",
       "opponent": "(H) Aston Villa",
       "result": "TBD",
